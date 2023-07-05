@@ -1,1 +1,1 @@
-# N_neighbors
+# n_Neighbors
